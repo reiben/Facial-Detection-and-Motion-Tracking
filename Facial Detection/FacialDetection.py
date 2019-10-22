@@ -1,8 +1,8 @@
 import cv2
 
 cap = cv2.VideoCapture(0) # Class which helps to capture frame by frame
-face_classifier = cv2.CascadeClassifier('Classifiers\\haarcascade_frontalcatface.xml') # Data for trained face detection model
-profile_face_classifier = cv2.CascadeClassifier('Classifiers\\haarcascade_profileface.xml')
+face_classifier = cv2.CascadeClassifier('haarcascade_frontalcatface.xml') # Data for trained face detection model
+profile_face_classifier = cv2.CascadeClassifier('haarcascade_profileface.xml')
 
 if cap.isOpened() == False: # if the VideoCapture unables to start video an error is displayed
 	print("An error occured")
