@@ -19,4 +19,4 @@ You can check [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source
 # Motion Tracking
 Motion Tracking is the process of recording the movement of objects or people. It is used in military, entertainment, sports, medical applications, and for validation of computer vision and robotics.</br>
 Here's a screenshot of the program:</br>
-![Motion Tracking]()
+![Motion Tracking](https://github.com/sarthakkimtani/Facial-Detection-and-Motion-Tracking/blob/sarthakkimtani-patch-1/MotionSample.png)
