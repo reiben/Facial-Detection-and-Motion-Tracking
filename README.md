@@ -17,4 +17,6 @@ You can check [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source
 2 Classifiers required for the program are present in this repository, However you can check more Classifiers in the OpenCV GitHub repository.
 
 # Motion Tracking
-Motion Tracking is the process of recording the movement of objects or people. It is used in military, entertainment, sports, medical applications, and for validation of computer vision and robotics.
+Motion Tracking is the process of recording the movement of objects or people. It is used in military, entertainment, sports, medical applications, and for validation of computer vision and robotics.</br>
+Here's a screenshot of the program:</br>
+![Motion Tracking]()
