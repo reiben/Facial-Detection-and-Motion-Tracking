@@ -13,7 +13,7 @@ You can install both these libraries using: </br>
 # Facial Detection
 According to Wikipedia, Face detection is a computer technology being used in a variety of applications that identifies human faces in digital images.</br>
 OpenCV Python Library provides an inbuild algorithm to detect faces which uses a Machine Learning Classifier called Haar Cascade.</br>
-You can check [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjWs9SqlbLlAhVh73MBHeqmCGkQFjACegQICxAH&url=https%3A%2F%2Fwww.quora.com%2FHow-do-Haar-cascades-work&usg=AOvVaw3EE1O4d6VV2KEn_3_9pRAp)to see how this algorithm works</br>
+You can check [this link](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=2ahUKEwjWs9SqlbLlAhVh73MBHeqmCGkQFjACegQICxAH&url=https%3A%2F%2Fwww.quora.com%2FHow-do-Haar-cascades-work&usg=AOvVaw3EE1O4d6VV2KEn_3_9pRAp) to see how this algorithm works</br>
 2 Classifiers required for the program are present in this repository, However you can check more Classifiers in the OpenCV GitHub repository.
 
 # Motion Tracking
